@@ -8,6 +8,6 @@ project (test)
 
 # 指定生成目标
 
-add_executable(test test1.c)
+add_executable(test test1.c test2.c)
 
 
